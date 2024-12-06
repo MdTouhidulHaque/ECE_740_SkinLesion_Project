@@ -29,7 +29,7 @@ Trained CNN models for different folds are saved in the `saved_models` folder.
 The results of the CNN and ML models are stored in the `results` folder.
 
 ### Dataset
-The preprossed dataset can be accessed via the following link:  
+The preprocessed dataset can be accessed via the following link:  
 **[https://drive.google.com/drive/u/2/folders/1XGLP4fpHKGOcs7fzKkjyD15wUEJ3BpJ2]**
 
 ### Extracted Features
